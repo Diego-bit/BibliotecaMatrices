@@ -308,7 +308,7 @@ public class Biblioteca {
             System.out.println("9.- Ordenar un arreglo por metodo Bubble Sort");
             System.out.println("10.- Ordenar un arreglo por metodo Inserccion");
             System.out.println("11.- Crear Matriz");
-            System.out.println("Insertar daton en matriz");
+            System.out.println("12.- Insertar daton en matriz");
             System.out.println("13.- Salir");
             entrada = bufer.readLine();
             op = Integer.parseInt(entrada);
